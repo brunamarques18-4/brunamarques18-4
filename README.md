@@ -4,8 +4,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/brunamarques18-4/brunamarques18-4/output/snake.svg" alt="Snake animation" />
 
-###
 
 
